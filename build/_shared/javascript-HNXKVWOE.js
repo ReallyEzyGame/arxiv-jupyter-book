@@ -1,1 +1,1 @@
-import{a,b,c,d,e}from"https://github.com/ReallyEzyGame/arxiv-jupyter-book.git/build/_shared/chunk-L4B4KBGY.js";import"https://github.com/ReallyEzyGame/arxiv-jupyter-book.git/build/_shared/chunk-RAQ24GF6.js";e();export{a as javascript,b as json,c as jsonld,d as typescript};
+import{a,b,c,d,e}from"/arxiv-jupyter-book/build/_shared/chunk-L4B4KBGY.js";import"/arxiv-jupyter-book/build/_shared/chunk-RAQ24GF6.js";e();export{a as javascript,b as json,c as jsonld,d as typescript};

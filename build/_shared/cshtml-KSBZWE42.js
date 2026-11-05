@@ -1,1 +1,1 @@
-import{a}from"https://github.com/ReallyEzyGame/arxiv-jupyter-book.git/build/_shared/chunk-Z7LJC5RR.js";import"https://github.com/ReallyEzyGame/arxiv-jupyter-book.git/build/_shared/chunk-DEQLTPBL.js";import"https://github.com/ReallyEzyGame/arxiv-jupyter-book.git/build/_shared/chunk-RAQ24GF6.js";export default a();
+import{a}from"/arxiv-jupyter-book/build/_shared/chunk-Z7LJC5RR.js";import"/arxiv-jupyter-book/build/_shared/chunk-DEQLTPBL.js";import"/arxiv-jupyter-book/build/_shared/chunk-RAQ24GF6.js";export default a();
